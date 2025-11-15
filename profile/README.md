@@ -97,9 +97,9 @@ Seven privilege levels ensure appropriate access:
 - **Owner**: Boat and personal data management
 - **Crew**: Boat crew members and support staff
 
-## Built With MicroCODE Gravity
+## Built With MicroCODE Web App
 
-Regatta RC is built on **MicroCODE Gravity**, our internal SaaS development platform derived from the licensed [Gravity SaaS Boilerplate](https://usegravity.app/) by Gravity Zero Ltd.
+Regatta RC is built on **MicroCODE Web App**, our internal SaaS development platform derived from the licensed [Gravity SaaS Boilerplate](https://usegravity.app/) by Gravity Zero Ltd.
 
 This provides:
 
